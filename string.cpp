@@ -10,7 +10,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 setlocale(0,"");
-char str[]="dog milk city street train  swan bird stranger danger";
+char str[]="dog milk city street train  swan bird strangest danger";
 char ch;
 printf("Исходная строка:\n%s \nВведите символ для поиска.\n",str);
 scanf_s("%c",&ch);
